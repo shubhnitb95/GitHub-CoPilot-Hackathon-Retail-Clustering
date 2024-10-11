@@ -1,8 +1,8 @@
 # CUSTOMER SEGMENTATION USING CLUSTERING
-```markdown
 ![Customer Segmentation](segmentation.gif)
-
 ![Data Description](datasetdescription.png)
+
+```markdown
 
 ## INTRODUCTION
 
