@@ -1,8 +1,8 @@
 # CUSTOMER SEGMENTATION USING CLUSTERING
-![Customer Segmentation](segmentation.gif)
-![Data Description](datasetdescription.png)
 
-```markdown
+![Customer Segmentation](segmentation.gif)
+
+![Data Description](datasetdescription.png)
 
 ## INTRODUCTION
 
@@ -78,4 +78,3 @@ Import the following libraries for data analysis and visualization: numpy, panda
 8.3. Create joint plots for each feature against “Spent”, with clusters highlighted using different colors.
 
 ### 9. Conclusion
-```
